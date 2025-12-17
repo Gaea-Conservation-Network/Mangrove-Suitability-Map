@@ -10,7 +10,7 @@ The `docs` folder is served through GitHub Pages and embedded in the Hub's "Expl
   Published outputs served via GitHub Pages:
   
   - `Mangrove-Suitability-Analysis.html`  
-    The rendered R Markdown document explaining the modelling approach, variable selection, and results.
+    The rendered R Markdown document (as an html) explaining the modelling approach, variable selection, and results.
   
   - `MangroveSuitabilityInteractive.html`  
     The interactive Leaflet map showing species combination suitability across Grenada's coastal zone.
